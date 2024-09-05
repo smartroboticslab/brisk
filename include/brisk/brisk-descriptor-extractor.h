@@ -5,6 +5,12 @@
  Copyright (C) 2013  The Autonomous Systems Lab, ETH Zurich,
  Stefan Leutenegger and Simon Lynen.
 
+ Copyright (C) 2020  Smart Robotics Lab, Imperial College London
+ Stefan Leutenegger
+
+ Copyright (C) 2024  Smart Robotics Lab, Technical University of Munich
+ Stefan Leutenegger
+
  All rights reserved.
 
  This is the Author's implementation of BRISK: Binary Robust Invariant 
